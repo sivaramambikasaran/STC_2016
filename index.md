@@ -1,4 +1,4 @@
-<b>When:</b>
+<h2>When:</h2>
 
 December 19th to December 23rd
 
@@ -13,6 +13,8 @@ Centre for Continuing Education, IISc
 <b>Tentative Schedule:</b>
 
 Monday, December 19th: Numerical Linear Algebra
+
+Numerical Disasters; http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html
 
 Handout 1: Catastrophic cancellation in finite precision; Example 1
 
@@ -33,6 +35,6 @@ The lectures will be in the morning session, while the afternoon session will in
 
 <b>Programming:</b>
 
-We will be using MATLAB for programming; </br>
+We will be using MATLAB for programming;
 
-Slides, handouts and assignments will be posted on this website as and when needed. </br>
+Slides, handouts and assignments will be posted on this website as and when needed.
