@@ -1,3 +1,11 @@
+#When:#
+
+Tuesday and Thursdays morning from 8:30 AM to 10:00 AM
+
+#Where:#
+
+Department of Computational & Data Sciences, SERC building, Room 102, Seminar Hall
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sivaramambikasaran/STC_2016/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
