@@ -18,9 +18,9 @@ Numerical Linear Algebra
 
 Numerical Disasters; http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html
 
-Handout 1: Catastrophic cancellation in finite precision; Example 1
+<a href="https://www.dropbox.com/s/65908o202oidchf/Catastrophic_Round_Off.pdf?dl=0">Handout 1: Catastrophic cancellation in finite precision; Example 1</a>
 
-Handout 2: Catastrophic cancellation in finite precision; Example 1
+<a href="https://www.dropbox.com/s/je3sbx1abslp52g/recursive_integrals.pdf?dl=0">Handout 2: Catastrophic cancellation in finite precision; Example 2</a>
 
 <a href="https://www.dropbox.com/s/yedujoqsy8gy3oi/hw.pdf?dl=0">Assignment</a>
 
