@@ -1,6 +1,10 @@
 <b>When:</b>
 
-December 19th to December 23rd morning from 9:30 AM to 12:30 PM and afternoon 2:00 PM to 5:00 PM
+December 19th to December 23rd </br>
+
+Morning: 9:30 AM to 12:30 PM </br>
+
+Afternoon: 2:00 PM to 5:00 PM </br>
 
 <b>Where:</b>
 
