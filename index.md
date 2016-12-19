@@ -14,6 +14,12 @@ Centre for Continuing Education, IISc
 
 Monday, December 19th: Numerical Linear Algebra
 
+Handout 1: Catastrophic cancellation in finite precision; Example 1
+
+Handout 2: Catastrophic cancellation in finite precision; Example 1
+
+<a href="https://www.dropbox.com/s/yedujoqsy8gy3oi/hw.pdf?dl=0">Assignment</a>
+
 Tuesday, December 20th: Numerical Differentiation
 
 Wednesday, December 21st: Numerical Integration
