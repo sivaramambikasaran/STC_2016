@@ -1,10 +1,12 @@
-#When:#
+###When:
 
-Tuesday and Thursdays morning from 8:30 AM to 10:00 AM
+December 19th to December 23rd morning from 9:30 AM to 12:30 PM and afternoon 2:00 PM to 5:00 PM
 
-#Where:#
+###Where:
 
-Department of Computational & Data Sciences, SERC building, Room 102, Seminar Hall
+Centre for Continuing Education, IISc
+
+###Tentative schedule:
 
 ## Welcome to GitHub Pages
 
