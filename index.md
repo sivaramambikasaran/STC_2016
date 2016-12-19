@@ -12,11 +12,10 @@ Centre for Continuing Education, IISc
 
 <h2>Tentative Schedule:</h2>
 
-<h3>Monday, December 19th</h3>
+<h3>Monday, December 19th: Numerical Linear Algebra</h3>
 
-Numerical Linear Algebra
 
-Numerical Disasters; http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html
+<a href="http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html">Numerical Disasters</a>
 
 <a href="https://www.dropbox.com/s/65908o202oidchf/Catastrophic_Round_Off.pdf?dl=0">Handout 1: Catastrophic cancellation in finite precision; Example 1</a>
 
