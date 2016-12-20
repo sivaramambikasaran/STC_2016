@@ -21,23 +21,17 @@ Centre for Continuing Education, IISc
 
 <a href="https://www.dropbox.com/s/je3sbx1abslp52g/recursive_integrals.pdf?dl=0">Handout 2: Catastrophic cancellation in finite precision; Example 2</a>
 
-<a href="https://www.dropbox.com/s/yedujoqsy8gy3oi/hw.pdf?dl=0">Assignment</a>
+<a href="https://www.dropbox.com/s/yedujoqsy8gy3oi/hw.pdf?dl=0">Assignment 1</a>
 
-<h3>Tuesday, December 20th</h3>
+<h3>Tuesday, December 20th: Numerical Differentiation</h3>
 
-Numerical Differentiation
+<a href="https://www.dropbox.com/s/slsd9rsor0p2bo6/hw.pdf?dl=0">Assignment 2</a>
 
-<h3>Wednesday, December 21st</h3>
+<h3>Wednesday, December 21st: Numerical Integration</h3>
 
-Numerical Integration
+<h3>Thursday, December 22nd: Numerical Solution of Ordinary Differential Equations</h3>
 
-<h3>Thursday, December 22nd</h3>
-
-Numerical Solution of Ordinary Differential Equations
-
-<h3>Friday, December 23rd</h3>
-
-Numerical Solution of Partial Differential Equations
+<h3>Friday, December 23rd: Numerical Solution of Partial Differential Equations</h3>
 
 The lectures will be in the morning session, while the afternoon session will involve programming assignments.
 
