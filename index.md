@@ -29,6 +29,10 @@ Centre for Continuing Education, IISc
 
 <h3>Wednesday, December 21st: Numerical Integration</h3>
 
+<a href="https://www.dropbox.com/s/3m6am61ivam5c6d/hw.pdf?dl=0">Assignment 3</a>
+
+<a href="https://www.dropbox.com/s/1ws4gvjaumq2b3b/testIntegral.m?dl=0">MATLAB code for the different quadratures discussed in class</a>
+
 <h3>Thursday, December 22nd: Numerical Solution of Ordinary Differential Equations</h3>
 
 <h3>Friday, December 23rd: Numerical Solution of Partial Differential Equations</h3>
