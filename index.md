@@ -12,8 +12,9 @@ Centre for Continuing Education, IISc
 
 <h2>Tentative Schedule:</h2>
 
-<h3>Monday, December 19th: Numerical Linear Algebra</h3>
+The lectures will be in the morning session, while the afternoon session will involve programming assignments.
 
+<h3>Monday, December 19th: Numerical Linear Algebra</h3>
 
 <a href="http://ta.twi.tudelft.nl/users/vuik/wi211/disasters.html">Numerical Disasters</a>
 
@@ -39,7 +40,7 @@ Centre for Continuing Education, IISc
 
 <h3>Friday, December 23rd: Numerical Solution of Partial Differential Equations</h3>
 
-The lectures will be in the morning session, while the afternoon session will involve programming assignments.
+<a href="https://www.dropbox.com/s/f9upr6855pzcw09/hw.pdf?dl=0">Assignment 5</a>
 
 <h2>Programming:</h2>
 
