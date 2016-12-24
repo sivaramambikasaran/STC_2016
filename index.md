@@ -72,7 +72,7 @@ The lectures will be in the morning session, while the afternoon session will in
 
 <a href="https://www.dropbox.com/s/ztosm6qk68iuvko/Problem2.m?dl=0">Code for Problem 2</a>
 
-<a href="https://www.dropbox.com/s/vvo9fg82ervzuy7/Waveeqn.mov?dl=0">Evolution of the solution for Problem 1</a>
+<a href="https://www.dropbox.com/s/vvo9fg82ervzuy7/Waveeqn.mov?dl=0">Evolution of the solution for Problem 2</a>
 
 <h2>Programming:</h2>
 
