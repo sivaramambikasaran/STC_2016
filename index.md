@@ -24,6 +24,8 @@ The lectures will be in the morning session, while the afternoon session will in
 
 <a href="https://www.dropbox.com/s/yedujoqsy8gy3oi/hw.pdf?dl=0">Assignment 1</a>
 
+<a href="https://www.dropbox.com/s/ckzfab43go2yj40/hwsoln.pdf?dl=0">Assignment 1 solution</a>
+
 <h3>Tuesday, December 20th: Numerical Differentiation</h3>
 
 <a href="https://www.dropbox.com/s/slsd9rsor0p2bo6/hw.pdf?dl=0">Assignment 2</a>
