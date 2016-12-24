@@ -54,6 +54,12 @@ The lectures will be in the morning session, while the afternoon session will in
 
 <a href="https://www.dropbox.com/s/kpuof4m63er0sqv/hw.pdf?dl=0">Assignment 4</a>
 
+<a href="https://www.dropbox.com/s/xvh3vrqc2zdr97t/hwsoln.pdf?dl=0">Assignment 4 solution</a>
+
+<a href="https://www.dropbox.com/s/5g674uj3ouu1djg/Problem1.m?dl=0">Code for Problem 1</a>
+
+<a href="https://www.dropbox.com/s/6kk75htjaj3ab6a/Problem2.m?dl=0">Code for Problem 2</a>
+
 <h3>Friday, December 23rd: Numerical Solution of Partial Differential Equations</h3>
 
 <a href="https://www.dropbox.com/s/f9upr6855pzcw09/hw.pdf?dl=0">Assignment 5</a>
