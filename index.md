@@ -64,6 +64,16 @@ The lectures will be in the morning session, while the afternoon session will in
 
 <a href="https://www.dropbox.com/s/f9upr6855pzcw09/hw.pdf?dl=0">Assignment 5</a>
 
+<a href="https://www.dropbox.com/s/k6bfqvkp76wt4ye/hwsoln.pdf?dl=0">Assignment 5 solution</a>
+
+<a href="https://www.dropbox.com/s/35p8e03kbmf65p9/Problem1.m?dl=0">Code for Problem 1</a>
+
+<a href="https://www.dropbox.com/s/t28kyeb2o9krj3i/Temp.flv?dl=0">Solution at each step of iteration for Problem 1</a>
+
+<a href="https://www.dropbox.com/s/ztosm6qk68iuvko/Problem2.m?dl=0">Code for Problem 2</a>
+
+<a href="https://www.dropbox.com/s/vvo9fg82ervzuy7/Waveeqn.mov?dl=0">Evolution of the solution for Problem 1</a>
+
 <h2>Programming:</h2>
 
 We will be using MATLAB for programming;
