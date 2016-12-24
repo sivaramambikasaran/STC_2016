@@ -26,9 +26,9 @@ The lectures will be in the morning session, while the afternoon session will in
 
 <a href="https://www.dropbox.com/s/ckzfab43go2yj40/hwsoln.pdf?dl=0">Assignment 1 solution</a>
 
-<a href="https://www.dropbox.com/s/eif90clun2249vw/Problem1.m?dl=0">Problem 1</a>
+<a href="https://www.dropbox.com/s/eif90clun2249vw/Problem1.m?dl=0">Code for Problem 1</a>
 
-<a href="https://www.dropbox.com/s/1nsv68syq5dljjx/Problem2.m?dl=0">Problem 2</a>
+<a href="https://www.dropbox.com/s/1nsv68syq5dljjx/Problem2.m?dl=0">Code for Problem 2</a>
 
 <h3>Tuesday, December 20th: Numerical Differentiation</h3>
 
@@ -39,6 +39,16 @@ The lectures will be in the morning session, while the afternoon session will in
 <h3>Wednesday, December 21st: Numerical Integration</h3>
 
 <a href="https://www.dropbox.com/s/3m6am61ivam5c6d/hw.pdf?dl=0">Assignment 3</a>
+
+<a href="https://www.dropbox.com/s/4etejpj22q1ydkc/hwsoln.pdf?dl=0">Assignment 3 solution</a>
+
+<a href="https://www.dropbox.com/s/h3mx37causc0kew/Problem1.m?dl=0">Code for Problem 1</a>
+
+<a href="https://www.dropbox.com/s/1ws4gvjaumq2b3b/Problem2.m?dl=0">Code for Problem 2</a>
+
+<a href="https://www.dropbox.com/s/ezpnu55f339q9p9/Problem3.m?dl=0">Code for Problem 3</a>
+
+<a href="https://www.dropbox.com/s/j089gtrelt9dyjr/Problem4.m?dl=0">Code for Problem 4</a>
 
 <a href="https://www.dropbox.com/s/1ws4gvjaumq2b3b/testIntegral.m?dl=0">MATLAB code for the different quadratures discussed in class</a>
 
